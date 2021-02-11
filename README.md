@@ -1,3 +1,6 @@
+`profiler`
+====================
+
 Tools to easily profile python code and view results.
 
 Basic usage
